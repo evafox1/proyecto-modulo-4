@@ -14,7 +14,7 @@ calcula el promedio por alumno y muestra estadísticas del grupo.
 (promedio mayor, promedio menor, promedio general).  
 
 
-Presentación:
+Presentación: https://youtu.be/DXRZUiSszuI
   
   
 Declaracion de uso de AI: Declaro que he utilizado herramientas de IA para buscar informacion necesaria para llevar acabo los problemas y verificar uso de sintaxis correcta. 
