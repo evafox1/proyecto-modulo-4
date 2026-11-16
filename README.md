@@ -19,3 +19,24 @@ Presentación:
   
 Declaracion de uso de AI: Declaro que he utilizado herramientas de IA para buscar informacion necesaria para llevar acabo los problemas y verificar uso de sintaxis correcta. 
 Todo el contenido ha sido verificado y adaptado por mi cuenta. 
+
+
+Prompt no.1  
+Como se saca el promedio menor de una lista de calificaciones?  
+
+
+Respuesta de IA:  
+Para obtener el promedio menor de una lista de calificaciones,   
+primero debes calcular el promedio de cada alumno y después comparar esos promedios   
+para identificar el más bajo.  
+
+
+En tu proyecto de la clase Alumno, puedes hacerlo así:  
+
+1. Inicializar la variable
+promedio_menor = 100
+
+Utilizamos 100 porque es la calificación máxima, suponiendo una escala de 0 a 100.
+
+
+
