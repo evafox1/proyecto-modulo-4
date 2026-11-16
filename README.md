@@ -7,7 +7,7 @@ Numero de control: 26491034
 Proyecto:  
 Gestión de calificaciones
 
-Descripción:
+Descripción:  
 Usa una clase Alumno (nombre, matrícula, calificaciones (lista de enteros)).  
 Usa listas para almacenar a los alumnos y sus calificaciones,   
 calcula el promedio por alumno y muestra estadísticas del grupo. 
